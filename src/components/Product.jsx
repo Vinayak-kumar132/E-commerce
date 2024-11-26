@@ -42,7 +42,7 @@ const Product = ({ post }) => {
       </div>
 
       <div className="h-[180px]">
-        <img src={post.image} className="h-full w-full " />
+        <img src={post.image} alt="pic" className="h-full w-full " />
       </div>
 
 
